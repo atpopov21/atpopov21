@@ -32,7 +32,6 @@
 <a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="70" alt="Git"/></a>
 <a href="https://replit.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1024px-Repl.it_logo.svg.png" height="70" alt="Replit logo"/></a>
 <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16"><img src="https://img.utdstc.com/icon/981/2d8/9812d89705787310adf08f0edf758921b8d551e8329c8d8c5eeabf4d06b08378:200" height="70" alt="SSMS logo"/></a>
-
 <a href="https://www.figma.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" height="70" alt="Figma logo"/></a>
 <a href="https://dragonbones.github.io/en/index.html"><img src="https://dragonbones.github.io/en/img/logo512.png" height="70" alt="DragonBones logo"/></a>
 
