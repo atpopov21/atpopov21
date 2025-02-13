@@ -21,7 +21,7 @@
 <a href="https://www.credly.com/earner/earned/badge/ec0c8d6c-96d3-4238-aaa0-cf9e8df2333d"><img width="150" src="https://images.credly.com/size/340x340/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png" alt="Networking Academy Learn-A-Thon 2023 badge"/><a/>
 <a href="https://www.credly.com/earner/earned/badge/42a7d438-0e99-46ba-bc84-9547d3342574"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxX80yCEQJuOWw0FYEKm-T2xslVbnwnQXQK1_6RiqgHfOTg4ZQVp-Qx5LRljVRR-rK9IA&usqp=CAU" width="150" alt="Networking Academy Learn-A-Thon 2024 badge"/></a>
 
-# 💽 Softwares & Programs:
+# 💽 Software & Programs:
 <a href="https://visualstudio.microsoft.com/vs/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" height="70" alt="Visual Studio 2022 logo"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="70" alt="Visual Studio Code logo"/></a>
 <a href="https://www.jetbrains.com/rider/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/2048px-JetBrains_Rider_Icon.svg.png" height="70" alt="JetBrains Rider logo"/></a>
